@@ -1,0 +1,8 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+C:/Users/oscar/Desktop/dc_env/exp3/block_ram_top.v,1659671788,verilog,,C:/Users/oscar/Desktop/dc_env/exp3/ram_tb.v,,ram_top,,,,,,,,
+C:/Users/oscar/Desktop/dc_env/exp3/ram_tb.v,1659671788,verilog,,,,tb_top,,,,,,,,
+C:/Users/oscar/Desktop/exp3a/exp3a.gen/sources_1/ip/block_ram/sim/block_ram.v,1701397010,verilog,,C:/Users/oscar/Desktop/dc_env/exp3/block_ram_top.v,,block_ram,,,,,,,,
+C:/Users/oscar/Desktop/exp3a/exp3a.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
